@@ -128,7 +128,6 @@ int main(){
    case 4: returnBook(); break;
    case 5: displayBook(); break;
    case 6: {cout << "Thank you for using my program! 😍.\n"; 
-   cout << "\tLibrary supervisors:\n\tMenna Allah Mohsen.\n\tSomaya Anwar Salem.\n\tAisha Mohamed Samih.\n\tAisha Mohamed Rabie.\n\tAisha Ahmed Fattouh.\n ";
    }break;
    default: cout << "Incorrect choice.\n";
   }
